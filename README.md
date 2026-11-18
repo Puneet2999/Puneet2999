@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Puneet Singh 👋
 
-<!--
-**Puneet2999/Puneet2999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | B.Tech CSE '27 @ AITR Indore
+I turn raw data into dashboards and recommendations that support business decisions. 
 
-Here are some ideas to get you started:
+￼ ￼ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+￼ ￼ ￼ ￼ ￼ ￼ ￼ 
+
+📊 Featured Projects
+Project
+Tools
+Key Result
+India Rainfall Analysis & Prediction
+Python, JavaScript
+115 years of IMD data, 641 districts; benchmarked 3 forecast models (MAE, RMSE)
+Bike Sales Dashboard
+Excel, Pivot Tables
+Purchase rate falls from 59% to 30% as commute grows from 2–5 to 10+ miles
+Data Professional Survey Dashboard
+Power BI, Power Query
+630 responses; Data Scientists earn about $94K vs. $55K for Data Analysts
+Zomato Restaurant Analysis
+SQL
+Add your key finding here
+📈 GitHub Stats
+￼ ￼ 
+
+🎯 Currently
+Interning in Power BI and data analytics
+Building SQL projects around real business questions
+Open to Data Analyst roles
+📫 Reach me at puneet2999@gmail.com
