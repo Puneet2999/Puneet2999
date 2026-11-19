@@ -1,17 +1,14 @@
-<h1 align="center">Hi, I'm Puneet Singh 👋</h1> <p align="center"> Aspiring Data Analyst | B.Tech CSE '27 @ AITR Indore<br> I turn raw data into dashboards and recommendations that support business decisions. </p> <p align="center"> <a href="https://linkedin.com/in/puneet2999"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:puneet2999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Puneet%20Singh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=60" width="100%" alt="Puneet Singh banner" /> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+dashboards;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;B.Tech+CSE+%2727+%40+AITR+Indore;Open+to+Data+Analyst+roles" alt="Typing intro" /> </p> <p align="center"> <a href="https://linkedin.com/in/puneet2999"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:puneet2999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" alt="Open to work"> </p>
 🛠️ Tech Stack
-<p> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> </p>
+<p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </p>
 📊 Featured Projects
-Project	Tools	Key Result
-India Rainfall Analysis & Prediction	Python, JavaScript	115 years of IMD data, 641 districts; benchmarked 3 forecast models (MAE, RMSE)
-Bike Sales Dashboard	Excel, Pivot Tables	Purchase rate falls from 59% to 30% as commute grows from 2–5 to 10+ miles
-Data Professional Survey Dashboard	Power BI, Power Query	630 responses; Data Scientists earn about $94K vs. $55K for Data Analysts
-Zomato Restaurant Analysis	SQL	Add your key finding here
-📈 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Puneet2999&show_icons=true&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet2999&layout=compact&hide_border=true" /> </p>
+<a href="https://github.com/Puneet2999/india-rainfall-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puneet2999&repo=india-rainfall-dashboard&theme=tokyonight&hide_border=true" alt="India Rainfall Dashboard" /> </a>
+🌧️ India Rainfall Analysis & Prediction · Python, JavaScript: 115 years of IMD data, 641 districts, 3 forecast models benchmarked (MAE, RMSE)
+🚲 Bike Sales Dashboard · Excel: purchase rate falls from 59% to 30% as commute grows from 2–5 to 10+ miles
+📈 Data Professional Survey Dashboard · Power BI: 630 responses; Data Scientists earn about $94K vs. $55K for Data Analysts
+🍽️ Zomato Restaurant Analysis · SQL: coming soon
 🎯 Currently
-Interning in Power BI and data analytics
-Building SQL projects around real business questions
-Open to Data Analyst roles
-
+🔭 Interning in Power BI and data analytics
+🌱 Building SQL projects around real business questions
 📫 Reach me at puneet2999@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
