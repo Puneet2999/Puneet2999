@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-gradient.svg" width="100%" alt=""/>
+<img src="hero-gradient.svg" width="100%" alt=""/>
 
 <h1>Puneet Singh</h1>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<img src="assets/about.svg" width="100%" alt="About"/>
+<img src="about.svg" width="100%" alt="About"/>
 
 <h3>Building clarity<br/>from raw data.</h3>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="assets/now.svg" width="100%" alt="Now"/>
+<img src="now.svg" width="100%" alt="Now"/>
 
 <br/>
 
