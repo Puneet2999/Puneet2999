@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150" viewBox="0 0 700 150">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#db2777" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.28"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="698" height="148" rx="18" fill="url(#a)" stroke="#7c3aed" stroke-opacity="0.45" stroke-width="1.5"/>
+  <text x="30" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4" fill="#a78bfa">ABOUT</text>
+  <text x="30" y="82" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">Turning raw data into</text>
+  <text x="30" y="116" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#ffffff">decisions that hold up.</text>
+</svg>
